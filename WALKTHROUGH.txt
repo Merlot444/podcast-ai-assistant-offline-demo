@@ -1,0 +1,18 @@
+Offline mode · scripted model output · real ingestion, retrieval and citation validation
+
+[qa] How large was the basil pot?
+The basil pot held twelve liters.
+  E1: rooftop-garden.json 0–26s · Mina, Jo · Choosing a container
+     On our rooftop garden, we grew basil in a twelve-liter pot with drainage holes. The holes let excess water escape after heavy rain.
+We raised the basil pot on small feet so the drainage holes would not sit flush against the roof.
+
+[refusal] What was the rooftop garden's annual budget?
+现有候选证据不足以回答该问题。
+  Citations: none
+
+[summary] Summarize the full episode in English, covering intake and handoff.
+Visitors tag the item and describe its symptom. Volunteers teach a maintenance step and record the repair at handoff.
+  E1: repair-cafe.json 0–16s · Ellis · Intake
+     At our repair café, the host tags each item with a numbered card. The visitor writes down the symptom and stays with the item at the workbench.
+  E2: repair-cafe.json 16–32s · Rae · Repair and handoff
+     Volunteers explain one safe maintenance step during the repair. At handoff, they record what was fixed and what the visitor should watch for.
